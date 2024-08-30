@@ -1,0 +1,5 @@
+com\batalha\App.class
+module-info.class
+com\batalha\Jogo.class
+com\batalha\Jogador.class
+com\batalha\Controller.class
